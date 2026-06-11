@@ -184,4 +184,10 @@ StudentOS helps students:
 * Learn concepts more efficiently
 * Track academic progress
 * Build productive study habits
-  
+
+DEMO
+https://studentosfrontend.lovable.app
+
+LICENSE
+MIT LICENSE
+
